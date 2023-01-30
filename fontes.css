@@ -46,7 +46,7 @@ font-size: X%; /*Uso de porcentagem - 100% é padrão*/
 font-size: inherit; /*Herdar as características do elemento pai*/
 }
 
-familia-fonte{
+.familia-fonte{
 font-family: family-name/generic-family; /*Lista de famílias de fontes prioritárias e genéricas*/
 font-family: inherit  /*Herdar as características do elemento pai*/
 }
