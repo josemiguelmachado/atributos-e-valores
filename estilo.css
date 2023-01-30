@@ -2,12 +2,12 @@
 
 .cor-fonte{
 color: red; /*Nome da cor*/
-color: #00ff00; /*hexadecimal - intensidade das cores vermelho, verde, azul*/
-color: #00ff0030; /*hexadecimal, transparência*/
-color: rgb(0,0,255); /*vermelho, verde, azul*/
-color: rgba(201, 76, 76, 0.5); /*vermelho, verde, azul, transparência*/
-color: hsl(360, 35%, 45%); /*matiz, saturação, brilho*/
-color: hsla(360, 35%, 45%, 0.5); /*matiz, saturação, brilho, transparência*/
+color: #00ff00; /*Hexadecimal - intensidade das cores vermelho, verde, azul*/
+color: #00ff0030; /*Hexadecimal, transparência*/
+color: rgb(0,0,255); /*Vermelho, verde, azul*/
+color: rgba(201, 76, 76, 0.5); /*Vermelho, verde, azul, transparência*/
+color: hsl(360, 35%, 45%); /*Matiz, saturação, brilho*/
+color: hsla(360, 35%, 45%, 0.5); /*Matiz, saturação, brilho, transparência*/
 }
 
 .estilo-fonte{
