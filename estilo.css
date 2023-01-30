@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+.cor-fonte{
+color: red; /*nome da cor*/
+color: #00ff00; /*hexadecimal - intensidade das cores red/green/blue*/
+color: #00ff0030; /*hexadecimal, transparência*/
+color: rgb(0,0,255); /*vermelho, verde, azul*/
+color: rgba(201, 76, 76, 0.5); /*vermelho, verde, azul, transparência*/
+color: hsl(360, 35%, 45%); /*matiz, saturação, brilho*/
+color: hsla(360, 35%, 45%, 0.5); /*matiz, saturação, brilho, transparência*/
+}
+
+.estilo-fonte{
+font-style: normal; /*fonte normal - padrão*/
+font-style: italic; /*Fonte em itálico - fonte inclinada personalizada*/
+font-style: oblique; /*Fonte em oblíquo- fonte inclinada*/
+}
+
