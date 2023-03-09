@@ -1,53 +1,53 @@
 @charset "utf-8";
 
 .cor-fonte{
-color: red; /*Nome da cor*/
-color: #00ff00; /*Hexadecimal - intensidade das cores vermelho, verde, azul*/
-color: #00ff0030; /*Hexadecimal, transparência*/
-color: rgb(0,0,255); /*Vermelho, verde, azul*/
-color: rgba(201, 76, 76, 0.5); /*Vermelho, verde, azul, transparência*/
-color: hsl(360, 35%, 45%); /*Matiz, saturação, brilho*/
-color: hsla(360, 35%, 45%, 0.5); /*Matiz, saturação, brilho, transparência*/
-}
+  color: red; /*Nome da cor*/
+  color: #00ff00; /*Hexadecimal - intensidade das cores vermelho, verde, azul*/
+  color: #00ff0030; /*Hexadecimal, transparência*/
+  color: rgb(0,0,255); /*Vermelho, verde, azul*/
+  color: rgba(201, 76, 76, 0.5); /*Vermelho, verde, azul, transparência*/
+  color: hsl(360, 35%, 45%); /*Matiz, saturação, brilho*/
+  color: hsla(360, 35%, 45%, 0.5); /*Matiz, saturação, brilho, transparência*/
+  }
 
 .estilo-fonte{
-font-style: normal; /*Fonte normal - padrão*/
-font-style: italic; /*Fonte em itálico - fonte inclinada personalizada*/
-font-style: oblique; /*Fonte em oblíquo- fonte inclinada*/
-}
+  font-style: normal; /*Fonte normal - padrão*/
+  font-style: italic; /*Fonte em itálico - fonte inclinada personalizada*/
+  font-style: oblique; /*Fonte em oblíquo- fonte inclinada*/
+  }
 
 .variar-fonte{
-font-variant: normal; /*Fonte com com letras maiúsculas/minúsculas - padrão*/
-font-variant: small-caps; /*Letras maiúsculas/maiúsculas*/
-font-variant: inherit; /*Herdar as características do elemento pai*/
-}
+  font-variant: normal; /*Fonte com com letras maiúsculas/minúsculas - padrão*/
+  font-variant: small-caps; /*Letras maiúsculas/maiúsculas*/
+  font-variant: inherit; /*Herdar as características do elemento pai*/
+  }
 
 .peso-fonte{
-font-weight: normal; /*Caracteres normais - padrão*/
-font-weight: bold; /*Caracteres em negrito*/
-font-weight: bolder; /*Caracteres em mais negrito que o herdado*/
-font-weight: lighter; /*Caracteres mais finos que o herdado*/
-font-weight: 100, 200, 300, 400 /*normal*/, 500, 600, 700 /*bold*/, 800, 900;
-font-weight: inherit; /*Herdar as características do elemento pai*/
-}
+  font-weight: normal; /*Caracteres normais - padrão*/
+  font-weight: bold; /*Caracteres em negrito*/
+  font-weight: bolder; /*Caracteres em mais negrito que o herdado*/
+  font-weight: lighter; /*Caracteres mais finos que o herdado*/
+  font-weight: 100, 200, 300, 400 /*normal*/, 500, 600, 700 /*bold*/, 800, 900;
+  font-weight: inherit; /*Herdar as características do elemento pai*/
+  }
 
 .tamanho-fonte{
-font-size: medium; /*Tamanho médio - padrão*/
-font-size: xx-small; /*Tamanho xx pequeno*/
-font-size: x-small; /*Tamanho x pequeno*/
-font-size: small; /*Tamanho pequeno*/
-font-size: large; /*Tamanho grande*/
-font-size: x-large; /*Tamanho x grande*/
-font-size: xx-large; /*Tamanho xx grande*/
-font-size: smaller; /*Menor que o tamanho herdado*/
-font-size: larger; /*Maior que o tamanho herdado*/
-font-size: Xpx; /*Uso de unidade de medida px*/
-font-size: X%; /*Uso de porcentagem - 100% é padrão*/
-font-size: inherit; /*Herdar as características do elemento pai*/
-}
+  font-size: medium; /*Tamanho médio - padrão*/
+  font-size: xx-small; /*Tamanho xx pequeno*/
+  font-size: x-small; /*Tamanho x pequeno*/
+  font-size: small; /*Tamanho pequeno*/
+  font-size: large; /*Tamanho grande*/
+  font-size: x-large; /*Tamanho x grande*/
+  font-size: xx-large; /*Tamanho xx grande*/
+  font-size: smaller; /*Menor que o tamanho herdado*/
+  font-size: larger; /*Maior que o tamanho herdado*/
+  font-size: Xpx; /*Uso de unidade de medida px*/
+  font-size: X%; /*Uso de porcentagem - 100% é padrão*/
+  font-size: inherit; /*Herdar as características do elemento pai*/
+  }
 
 .familia-fonte{
-font-family: family-name/generic-family; /*Lista de famílias de fontes prioritárias e genéricas*/
-font-family: inherit  /*Herdar as características do elemento pai*/
-}
+  font-family: family-name/generic-family; /*Lista de famílias de fontes prioritárias e genéricas*/
+  font-family: inherit  /*Herdar as características do elemento pai*/
+  }
 
